@@ -13,7 +13,6 @@
 - 📊 Petroleum Engineering student building a second track in **data analysis, automation & AI**
 - 🛠️ Turning raw data into dashboards, ETL pipelines, and automated reports with **Python, SQL & Power BI**
 - 🧩 Sharpening problem-solving through **competitive programming in C++**
-- 🚀 Entrant — **Digital Innovation Challenge 2026** (Egypt)
 - 🌍 Open to remote & freelance work · **Arabic & English**
 
 ### 🛠️ Tech Stack
