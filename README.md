@@ -31,21 +31,21 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedAbugebbah&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbugebbah&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AhmedAbugebbah&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedAbugebbah/AhmedAbugebbah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedAbugebbah/AhmedAbugebbah/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/AhmedAbugebbah/AhmedAbugebbah/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
@@ -64,5 +64,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedAbugebbah&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
